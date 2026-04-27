@@ -70,7 +70,6 @@ Below is the UI implementation for Login:
             <td><img width="300" height="440" alt="img3" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/flutter_login_app_week_1/screenshots/3.png"></td>
             <td><img width="300" height="440" alt="img4" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/flutter_login_app_week_1/screenshots/4.png"></td>
         </tr>
-      
         <tr>
             <td colspan="4" align="center">
                 <a href="https://github.com/R-Rubab/3-Week-Flutter-Internship">
@@ -126,7 +125,6 @@ Below is the UI implementation for Task Manager:
             <td><img width="300" height="440" alt="img3" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week2_todo_app/screenshots/3.png"></td>
             <td><img width="300" height="440" alt="img4" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week2_todo_app/screenshots/4.png"></td>
         </tr>
-      
         <tr>
             <td colspan="4" align="center">
                 <a href="https://github.com/R-Rubab/3-Week-Flutter-Internship">
@@ -269,11 +267,11 @@ flutter test
 
 ## Screenshots
 ## User Interface Layout:
-Below is the UI implementation for E-Commerce:
+Below is the UI implementation for Task Manager:
 <table>
     <tbody>
         <tr>
-            <th colspan="4" align="center">E-Commerce Application Using Flutter</th>
+            <th colspan="4" align="center">Task Manager Application Using Flutter</th>
         </tr>
         <tr>
             <td><img width="300" height="440" alt="img1" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/splash.png"></td>
