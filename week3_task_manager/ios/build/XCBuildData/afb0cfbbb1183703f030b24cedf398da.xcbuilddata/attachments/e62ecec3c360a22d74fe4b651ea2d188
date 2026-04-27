@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-primary.dia",
+    "emit-module-dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.dia",
+    "pch" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-primary.swiftdeps"
+  },
+  "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/Runner/SceneDelegate.swift" : {
+    "const-values" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/albatross/Development/MobileProjects/Job/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩/tasks/week3_task_manager/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
