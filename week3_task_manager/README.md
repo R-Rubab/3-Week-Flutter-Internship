@@ -99,11 +99,11 @@ flutter test
 
 ## Screenshots
 ## User Interface Layout:
-Below is the UI implementation for E-Commerce:
+Below is the UI implementation for Task Manager:
 <table>
     <tbody>
         <tr>
-            <th colspan="4" align="center">E-Commerce Application Using Flutter</th>
+            <th colspan="4" align="center">Task Manager Application Using Flutter</th>
         </tr>
         <tr>
             <td><img width="300" height="440" alt="img1" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/splash.png"></td>
