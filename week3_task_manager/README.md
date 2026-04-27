@@ -98,12 +98,53 @@ flutter test
 - **UI**: Material 3, custom widgets, modal bottom sheets, Lottie splash animation
 
 ## Screenshots
-- ![Splash Screen](screenshots/splash.png)
+## User Interface Layout:
+Below is the UI implementation for E-Commerce:
+<table>
+    <tbody>
+        <tr>
+            <th colspan="4" align="center">E-Commerce Application Using Flutter</th>
+        </tr>
+        <tr>
+            <td><img width="300" height="440" alt="img1" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/splash.png"></td>
+            <td><img width="300" height="440" alt="img2" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/login1.png"></td>
+            <td><img width="300" height="440" alt="img3" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/login2.png"></td>
+            <td><img width="300" height="440" alt="img33" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home1.png"></td>
+        </tr>
+        <tr>
+            <td><img width="300" height="440" alt="img4" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home2.png"></td>
+            <td><img width="300" height="440" alt="img5" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home3.png"></td>
+            <td><img width="300" height="440" alt="img6" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home4.png"></td>
+            <td><img width="300" height="440" alt="img5" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home6.png"></td>
+        </tr>
+        <tr>
+            <td><img width="300" height="440" alt="img8" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/hom7.png"></td>
+            <td><img width="300" height="440" alt="img9" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home8.png"></td>
+            <td><img width="300" height="440" alt="img10" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home9.png"></td>
+            <td><img width="300" height="440" alt="img11" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home10.png"></td>
+        </tr>
+       <tr>
+            <td><img width="300" height="440" alt="img8" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/hom12.png"></td>
+            <td><img width="300" height="440" alt="img9" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home13.png"></td>
+            <td><img width="300" height="440" alt="img10" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home14.png"></td>
+            <td><img width="300" height="440" alt="img11" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home15.png"></td>
+        </tr>
+        <tr>
+            <td colspan="4" align="center">
+                <a href="https://github.com/R-Rubab/-E-Commerce-App">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=3-Week-Flutter-Internship&theme=dracula" alt="Storage" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- - ![Splash Screen](screenshots/splash.png)
 - ![Login Screen](screenshots/login1.png)
 - ![Home Screen](screenshots/home1.png)
 - ![Task List](screenshots/home2.png)
 - ![Add Task Bottom Sheet](screenshots/home3.png)
-- ![Incomplete Task Filter](screenshots/home4.png)
+- ![Incomplete Task Filter](screenshots/home4.png) -->
 
 ## Video
 - [Watch Project Demo](screenshots/video.mov)

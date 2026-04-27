@@ -38,7 +38,7 @@ The goal was to learn state management using setState and implement local storag
 ## 🛠️ Setup
 
 1. Clone repo:
-   git clone https://github.com/your-username/week2_todo_app.git
+   git clone git@github.com:R-Rubab/3-Week-Flutter-Internship.git
 
 2. Install dependencies:
    flutter pub get

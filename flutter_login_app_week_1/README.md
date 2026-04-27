@@ -37,7 +37,7 @@ The goal of this task was to understand Flutter basics, UI design, navigation, a
 ## 🛠️ Setup Instructions
 
 1. Clone repository:
-   git clone https://github.com/your-username/week1_login_app.git
+   git clone git@github.com:R-Rubab/3-Week-Flutter-Internship.git
 
 2. Go to project:
    cd week1_login_app
