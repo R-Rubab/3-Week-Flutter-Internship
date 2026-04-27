@@ -124,10 +124,10 @@ Below is the UI implementation for E-Commerce:
             <td><img width="300" height="440" alt="img11" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home9.png"></td>
         </tr>
        <tr>
-            <td><img width="300" height="440" alt="img8" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/hom10.png"></td>
-            <td><img width="300" height="440" alt="img9" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home11.png"></td>
-            <td><img width="300" height="440" alt="img10" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home12.png"></td>
-            <td><img width="300" height="440" alt="img11" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home13.png"></td>
+            <td><img width="300" height="440" alt="img12" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/hom10.png"></td>
+            <td><img width="300" height="440" alt="img13" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home11.png"></td>
+            <td><img width="300" height="440" alt="img14" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home12.png"></td>
+            <td><img width="300" height="440" alt="img15" src="https://github.com/R-Rubab/3-Week-Flutter-Internship/blob/main/week3_task_manager/screenshots/home13.png"></td>
         </tr>
         <tr>
             <td colspan="4" align="center">
